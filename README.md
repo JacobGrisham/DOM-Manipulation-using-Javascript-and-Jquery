@@ -2,7 +2,7 @@
 ### Coding challenge from the Udemy Course [the Complete 2020 Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 I wrote the code in game.js. The other files were provided by the instructor.
 
-![Demo](public/demo.gif)
+![Demo](images/demo.gif)
 
 ## 💡Lessons Learned
 - arrays
