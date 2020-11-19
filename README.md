@@ -1,4 +1,4 @@
-# Simon Game: DOM Manipulation using Javascript and Jquery
+# [Simon Game: DOM Manipulation using Javascript and Jquery](https://jacobgrisham.github.io/DOM-Manipulation-using-Javascript-and-Jquery/)
 ### Coding challenge from the Udemy Course [the Complete 2020 Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 I wrote the code in game.js. The other files were provided by the instructor.
 
@@ -14,9 +14,6 @@ I wrote the code in game.js. The other files were provided by the instructor.
 - creating audio in javascript
 
 ## 🚀 Getting Started
-- [Live on Code Sandbox](https://codesandbox.io/s/zealous-neumann-4wpw7)
-⚠️ For best performance, download repo and run locally. The game lags in code sandbox.
-
 To run this project locally:
 - Option 1: With the folder open in your text editor, right click on the index.html and select "Copy Path", and then paste into the browser of your choice
 - Option 2: With the folder open in your text editor, right click on the index.html and select "Open with Live Server"
