@@ -12,6 +12,7 @@ I wrote the code in game.js. The other files were provided by the instructor.
 - this keyword
 - $ identifier
 - creating audio in javascript
+- [JavaScript vs. JQUERY](https://www.scaler.com/topics/javascript/javascript-vs-jquery/)
 
 ## 🚀 Getting Started
 To run this project locally:
